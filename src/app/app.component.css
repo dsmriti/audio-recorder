@@ -1,0 +1,25 @@
+.top-header{
+    background-color: teal;
+    color: seashell;
+    width: 100%;
+    height: 20vh;
+    position: relative
+}
+.welcome-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.record{
+    height: 80vh;
+    background-color:#c8eaf59c;
+    border: 2px 0px 2px 2px;
+    border-color: coral;
+}
+.record-list{
+    height: 80vh;
+    background-color: #e0c6fb;
+    border: 2px 2px 0px 2px;
+    border-color: coral;
+}
